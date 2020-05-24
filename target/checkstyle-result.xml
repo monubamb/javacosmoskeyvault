@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\JAVACOSMOS\src\main\java\com\microsoft\azure\sample\controller\TodoListController.java">
+</file>
+<file name="C:\JAVACOSMOS\src\main\java\com\microsoft\azure\sample\dao\TodoItemRepository.java">
+</file>
+<file name="C:\JAVACOSMOS\src\main\java\com\microsoft\azure\sample\model\TodoItem.java">
+</file>
+<file name="C:\JAVACOSMOS\src\main\java\com\microsoft\azure\sample\TodoApplication.java">
+</file>
+<file name="C:\JAVACOSMOS\src\test\java\com\microsoft\azure\sample\model\TodoItemTest.java">
+</file>
+<file name="C:\JAVACOSMOS\src\test\java\com\microsoft\azure\sample\TodoApplicationTest.java">
+</file>
+<file name="C:\JAVACOSMOS\src\main\resources\application.properties">
+</file>
+<file name="C:\JAVACOSMOS\src\main\resources\static\index.html">
+</file>
+<file name="C:\JAVACOSMOS\src\main\resources\static\Scripts\app.js">
+</file>
+<file name="C:\JAVACOSMOS\src\main\resources\static\Scripts\homeCtrl.js">
+</file>
+<file name="C:\JAVACOSMOS\src\main\resources\static\Scripts\todoListCtrl.js">
+</file>
+<file name="C:\JAVACOSMOS\src\main\resources\static\Scripts\todoListSvc.js">
+</file>
+<file name="C:\JAVACOSMOS\src\main\resources\static\Views\Home.html">
+</file>
+<file name="C:\JAVACOSMOS\src\main\resources\static\Views\TodoList.html">
+</file>
+<file name="C:\JAVACOSMOS\src\test\resources\test.properties">
+</file>
+</checkstyle>

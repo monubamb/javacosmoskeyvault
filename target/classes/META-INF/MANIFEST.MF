@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: todo-app-java-on-azure
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: monub
+Implementation-Vendor-Id: com.microsoft.azure
+Build-Jdk: 1.8.0_251
+Implementation-URL: http://projects.spring.io/spring-boot/todo-app-jav
+ a-on-azure/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
